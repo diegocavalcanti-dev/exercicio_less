@@ -59,7 +59,7 @@ section {
 }
 .product-button {
   display: block;
-  background-color: #44bd32;
+  background-color: #55c843;
   /* (uso de variavel) */
   color: #fff;
   /* ou  @corDoTexto; (uso do mapas) */
